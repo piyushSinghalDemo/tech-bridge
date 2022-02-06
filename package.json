@@ -28,7 +28,7 @@
     "express-validator": "^6.2.0",
     "jsonwebtoken": "^8.5.1",
     "mocha": "^9.2.0",
-    "mongoose": "^5.7.3",
+    "mongoose": "^5.7.5",
     "mongoose-auto-increment": "^5.0.1",
     "mongoose-unique-validator": "^2.0.3",
     "nodemon": "1.19.2",
